@@ -1,7 +1,7 @@
 <h1> 👋 Hi, I’m Juan Paz 👨‍💻 </h1>
 
 - 🗺️ I’m interested in world of web development
-- 👨‍🎓 I’m currently learning Programming at UTN & Full stack Web developer at NUCBA 🚀
+- 👨‍🎓 I’m currently learning Programming at UTN & Full Stack Web developer at NUCBA 🚀
 
 <img src="https://media1.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif?cid=790b76119ab5d8143699db8505f6766a8050a1aa37f3b21f&rid=giphy.gif&ct=g">
 
