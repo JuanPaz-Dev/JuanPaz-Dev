@@ -22,9 +22,26 @@
 
 </div>  
 
-<h3>Thank you for visiting my profile</h3>
+<h3>Contact me</h3>
+
+<div class="contact">
+
+<a href="https://www.linkedin.com/in/juan-paz-/">
+<img alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"
+width=60px" height="60px">
+</a>
+                         
+<a href="https://twitter.com/juanp4z">
+<img alt="twitter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/800px-Twitter-logo.svg.png"
+width=60px" height="60px">
+</a>
+                         
+</div>     
+
+<h4>Thank you for visiting my profile</h4>
 <img src="https://c.tenor.com/jlTCJZIDvKAAAAAC/max-goof-disney.gif">
-  
+
+
 <!---
 JuanPaz-Dev/JuanPaz-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
